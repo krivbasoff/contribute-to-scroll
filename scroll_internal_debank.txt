@@ -1,0 +1,18 @@
+Name of the project
+Debank
+
+Project type
+Library
+
+Site of the project
+https://debank.com/
+
+Github repository of the project
+https://github.com/DeBankDeFi/DeBankChain
+
+Networks
+Scroll Mainnet
+
+Additional context
+For some reason, Debank does not represent any of Scroll's internal transactions (which might be expected to be called off-chain). This has led to significant disappointment, as I rely on Debank 99% of the time to monitor my balances and activity across different chains. Here's how it unfolded: I bridged a few ETH to Scroll and was waiting for Debank to display it. After waiting for a few minutes and not seeing any update, I decided to bridge more, thinking that perhaps the previous transaction was stuck or encountering some issue. You might think I am foolish for not immediately resorting to Scrollscan, and you would be correct. However, relying solely on Scrollscan is not a solution conducive to Scroll's real mass adoption. As I am not a code-ish guy, I have no idea how to work on a code to show you the implementation ( and Im not really 100% sure whether it is possible) but here's the issue that might lead Scroll to a real success. <3 
+
